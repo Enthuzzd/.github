@@ -21,5 +21,5 @@ If you are a developer working within the JVM ecosystem or interested in multi-t
 
 ---
 
-* 🌐 **Website:** Coming soon
-* 📧 **Contact:** [engineering@enthuzd.io](mailto:engineering@enthuzd.io)
+* **Website:** Coming soon
+* **Contact:** [engineering@enthuzd.io](mailto:engineering@enthuzd.io)
